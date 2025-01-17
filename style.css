@@ -80,7 +80,9 @@
 
 body {
     width: 1728px;
+    margin: 0 auto;
 }
+
 #hero {
     background-image: url(img/hero-img.png);
     background-repeat: no-repeat;
